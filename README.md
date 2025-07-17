@@ -54,3 +54,16 @@ Built as my **final project for Harvard’s CS50x**, this app demonstrates real-
 - Handling user input and results filtering
 - Clean UI with responsive design
 
+---
+
+- Working with third-party APIs
+- Designing a recommendation algorithm (non-AI)
+- Building dynamic frontend components
+- Handling user input and results filtering
+- Clean UI with responsive design
+
+## 📫 Contact
+
+**Rayen Hbili**  
+📧 Hbilirayen6@gmail.com  
+
